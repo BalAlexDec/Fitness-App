@@ -28,3 +28,17 @@ Autenticación segura con JWT
 
 APIs externas: Google Fit, Apple HealthKit (opcional)
 
+
+## Desarrollo frontend
+
+El directorio `frontend` contiene una maqueta inicial creada con React y Tailwind CSS.
+
+### Pasos para probar
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Abrirá la aplicación en modo desarrollo.
